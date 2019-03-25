@@ -24,7 +24,14 @@ button{
 p{
     display: inline-block;
 }
+    p.addition{
+        display: none;
+    }
 img{
     height: 100px;
     vertical-align: top;
+    display: none;
+}
+.red{
+    color: red;
 }
